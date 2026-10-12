@@ -1,0 +1,2 @@
+C:\Users\IT\Downloads\csharp\wea\wea\obj\Debug\wea.csproj.AssemblyReference.cache
+C:\Users\IT\Downloads\csharp\wea\wea\obj\Debug\wea.csproj.CoreCompileInputs.cache
